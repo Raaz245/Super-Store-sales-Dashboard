@@ -3,7 +3,7 @@
 ## 📊 Dashboard Preview
 <!-- Add a screenshot of your dashboard here -->
 <!-- Steps: Open Power BI → File → Export → Export to PNG or take a screenshot → upload as 'dashboard-preview.png' -->
-(dashboard-preview.png)
+
 <img width="1238" height="736" alt="Screenshot 2026-09-23 193932" src="https://github.com/user-attachments/assets/ccff99f1-588c-40cd-a45c-75b0106b9f7d" />
 
 ---
